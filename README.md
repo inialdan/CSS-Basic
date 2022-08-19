@@ -7,3 +7,4 @@ Learn CSS Basic Code
 
 CSS Selector
 - Selector Element
+- Selector Id
