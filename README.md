@@ -12,3 +12,4 @@ CSS Selector
 CSS How To
 - External CSS
 - Internal CSS
+- Inline CSS
