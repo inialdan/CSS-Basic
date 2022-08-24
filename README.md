@@ -13,3 +13,6 @@ CSS How To
 - External CSS
 - Internal CSS
 - Inline CSS
+
+CSS Comment
+- Single-line Comment
