@@ -18,3 +18,4 @@ CSS Comment
 - Single-line Comment
 - Single-line Comment in Code
 - Multiple-line Comment
+- HTML and CSS Comment
