@@ -22,3 +22,4 @@ CSS Comment
 
 CSS Colors
 - Color Names
+- Background Color
