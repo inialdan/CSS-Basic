@@ -25,3 +25,4 @@ CSS Colors
 - Background Color
 - Text Color
 - Border Color
+- Color Values
