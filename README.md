@@ -26,3 +26,8 @@ CSS Colors
 - Text Color
 - Border Color
 - Color Values
+
+CSS Background
+- Background Color
+- Background Color Other Element
+- Background Color Opacity
