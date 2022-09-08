@@ -27,6 +27,7 @@ CSS Colors
 - Border Color
 - Color Values
 - RGB
+- RGB Shades
 
 CSS Background
 - Background Color
