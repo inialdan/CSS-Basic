@@ -28,6 +28,7 @@ CSS Colors
 - Color Values
 - RGB
 - RGB Shades
+- RGBA
 
 CSS Background
 - Background Color
