@@ -31,6 +31,7 @@ CSS Colors
 - RGBA
 - HEX
 - HEX Shades
+- HEX 3 Digit
 
 CSS Background
 - Background Color
