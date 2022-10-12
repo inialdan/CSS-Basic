@@ -33,7 +33,8 @@ CSS Colors
 - HEX Shades
 - HEX 3 Digit
 
-CSS Background
+CSS Background Color
 - Background Color
 - Background Color Other Element
 - Background Color Opacity
+- Background Color Transparency RGBA
