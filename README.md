@@ -38,3 +38,6 @@ CSS Background Color
 - Background Color Other Element
 - Background Color Opacity
 - Background Color Transparency RGBA
+
+CSS Background Image
+- Background Image
