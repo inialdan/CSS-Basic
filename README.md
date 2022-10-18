@@ -42,3 +42,4 @@ CSS Background Color
 CSS Background Image
 - Background Image
 - Background Image Bad Combination
+- Background Image Paragraph
