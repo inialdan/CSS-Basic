@@ -44,3 +44,4 @@ CSS Background Image
 - Background Image Bad Combination
 - Background Image Paragraph
 - Background Image Repeat
+- Background Image Repeat Strange
