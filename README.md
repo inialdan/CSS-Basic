@@ -45,3 +45,4 @@ CSS Background Image
 - Background Image Paragraph
 - Background Image Repeat
 - Background Image Repeat Strange
+- Background Image Repeat No-Repeat
