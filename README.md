@@ -46,3 +46,4 @@ CSS Background Image
 - Background Image Repeat
 - Background Image Repeat Strange
 - Background Image Repeat No-Repeat
+- Background Image Position
