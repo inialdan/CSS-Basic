@@ -49,3 +49,4 @@ CSS Background Image
 - Background Image Position
 - Background Attachment Fixed
 - Background Attachment Scroll
+- Background Shorthand
