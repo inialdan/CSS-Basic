@@ -50,3 +50,6 @@ CSS Background Image
 - Background Attachment Fixed
 - Background Attachment Scroll
 - Background Shorthand
+
+CSS Border
+- Border
