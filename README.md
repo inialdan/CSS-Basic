@@ -54,3 +54,4 @@ CSS Background Image
 CSS Border
 - Border
 - Border Width
+- Border Specific Width
