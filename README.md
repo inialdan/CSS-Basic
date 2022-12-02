@@ -57,3 +57,4 @@ CSS Border
 - Border Specific Width
 - Border Color
 - Border Specific Color
+- Border Color HEX
