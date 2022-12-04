@@ -59,3 +59,4 @@ CSS Border
 - Border Specific Color
 - Border Color HEX
 - Border Color RGB
+- Border Color HSL
