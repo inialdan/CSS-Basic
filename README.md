@@ -61,3 +61,4 @@ CSS Border
 - Border Color RGB
 - Border Color HSL
 - Border Style Styles
+- Border Individual Sides
