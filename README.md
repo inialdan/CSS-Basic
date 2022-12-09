@@ -62,3 +62,4 @@ CSS Border
 - Border Color HSL
 - Border Style Styles
 - Border Individual Sides
+- Border Individual Dotted
