@@ -64,3 +64,4 @@ CSS Border
 - Border Individual Sides
 - Border Individual Dotted
 - Border Individual Solid
+- Border Individual Dotted Solid
