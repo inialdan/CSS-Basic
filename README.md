@@ -65,3 +65,4 @@ CSS Border
 - Border Individual Dotted
 - Border Individual Solid
 - Border Individual Dotted Solid
+- Border Width Specific
