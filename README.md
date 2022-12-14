@@ -67,3 +67,4 @@ CSS Border
 - Border Individual Dotted Solid
 - Border Width Specific
 - Border Color Property
+- Border Color Specific Side
