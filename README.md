@@ -69,3 +69,4 @@ CSS Border
 - Border Color Property
 - Border Color Specific Side
 - Border Side Individual
+- Border Side Individual Simple
