@@ -70,3 +70,4 @@ CSS Border
 - Border Color Specific Side
 - Border Side Individual
 - Border Side Individual Simple
+- Border Shorthand Property
