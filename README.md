@@ -72,3 +72,4 @@ CSS Border
 - Border Side Individual Simple
 - Border Shorthand Property
 - Border Shorthand Left Side
+- Border Shorthand Right Side
