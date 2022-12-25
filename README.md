@@ -74,3 +74,4 @@ CSS Border
 - Border Shorthand Left Side
 - Border Shorthand Right Side
 - Border Shorthand Top Side
+- Border Shorthand Bottom Side
