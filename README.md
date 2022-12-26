@@ -75,3 +75,4 @@ CSS Border
 - Border Shorthand Right Side
 - Border Shorthand Top Side
 - Border Shorthand Bottom Side
+- Border Radius Property
