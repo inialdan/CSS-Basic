@@ -76,3 +76,4 @@ CSS Border
 - Border Shorthand Top Side
 - Border Shorthand Bottom Side
 - Border Radius Property
+- Border Radius Normal
