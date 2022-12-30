@@ -78,3 +78,4 @@ CSS Border
 - Border Radius Property
 - Border Radius Normal
 - Border Radius Round
+- Border Radius Rounder
