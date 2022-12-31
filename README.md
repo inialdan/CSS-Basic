@@ -79,3 +79,4 @@ CSS Border
 - Border Radius Normal
 - Border Radius Round
 - Border Radius Rounder
+- Border Radius Roundest
